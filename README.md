@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**lauralatorrec/lauralatorrec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Laura Latorre Carrillo 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Computer Science & Business Management Student
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Interested in software development, artificial intelligence and business management.
+- Currently improving my programming and problem-solving skills.
+- Passionate about technology, innovation and efficient systems.
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,docker,linux,vscode" />
+</p>
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/laura-latorre-carrillo/
+- Email: lauralatorrecarrillo@gmail.com
+
