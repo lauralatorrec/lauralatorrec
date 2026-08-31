@@ -23,7 +23,6 @@ AI Engineer Intern
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" height="48">
 </p>
----
 
 ## Contact
 
