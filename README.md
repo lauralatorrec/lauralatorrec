@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Laura Latorre Carrillo 👋</h1>
 
 <p align="center">
-Computer Science & Business Management
+AI Engineer Intern
 </p>
 
 ---
