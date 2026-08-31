@@ -18,12 +18,9 @@ Computer Science & Business Management
 
 ## Tech Stack
 
-## Technologies
-
-**AI:** Python · LangChain · LangGraph  
-**Languages:** JavaScript · Java · C++ · C  
-**Web:** Vue.js · HTML · CSS  
-**Tools:** Git · GitHub · Docker · Linux · VS Code
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,vue,git,github,docker,linux,vscode" />
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 
 ---
 
