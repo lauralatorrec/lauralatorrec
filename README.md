@@ -18,10 +18,11 @@ Computer Science & Business Management
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,vue,git,github,docker,linux,vscode" />
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,vue,git,github,docker,linux,vscode" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" height="48">
+</p>
 ---
 
 ## Contact
